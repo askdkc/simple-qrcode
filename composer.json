@@ -1,5 +1,5 @@
 {
-    "name": "simplesoftwareio/simple-qrcode",
+    "name": "askdkc/simple-qrcode",
     "description": "Simple QrCode is a QR code generator made for Laravel.",
     "keywords": ["qrcode", "laravel", "simple", "generator", "wrapper"],
     "homepage": "https://www.simplesoftware.io/#/docs/simple-qrcode",
@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.2|^8.0",
       	"ext-gd": "*",
-        "bacon/bacon-qr-code": "^2.0"
+        "askdkc/bacon-qr-code": "^2.0"
     },
     "require-dev": {
         "mockery/mockery": "~1",
